@@ -1,0 +1,14 @@
+{
+  "databaseConfig": {
+    "dataType": "mysql",
+    "url": "jdbc:mysql://localhost:3306/ta_prd",
+    "userName": "root",
+    "password": "root",
+    "databaseName": "ta_prd"
+  },
+  "generateCodeConfig": {
+    "tableName": "business_cfm_sub",
+    "poPackageName": "com.yss.ta.product.domain.po",
+    "mapperPackageName": "com.yss.ta.product.domain.mapper"
+  }
+}
